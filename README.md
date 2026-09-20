@@ -32,13 +32,3 @@ WorshipCast — программа для показа контента во в�
 ## Технологии
 
 Electron · React 18 · Zustand · Vosk (офлайн-распознавание речи) · MIDI (easymidi / rtpmidi) · Supabase · electron-builder.
-
-## Документация
-
-- [docs/article-quick-create.md](docs/article-quick-create.md) — как устроено быстрое создание песен
-- [FONT_SYSTEM.md](FONT_SYSTEM.md) — система шрифтов
-- [TEMPLATES_UPDATE.md](TEMPLATES_UPDATE.md) — шаблоны слайдов
-- [ABOUT_SYSTEM.md](ABOUT_SYSTEM.md) — раздел «О программе» и история версий
-- [SECURITY.md](SECURITY.md) — настройки безопасности Electron (CSP и т.д.)
-
-Полная история версий также доступна прямо в приложении: **Настройки → О программе**.
